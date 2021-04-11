@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Araam</strong>
 </h1>
-<h1 align="center"><img src="./assets/game-console-l.png"></h1>
+<h1 align="center"><img src="./assets/araam-icon-l.png"></h1>
 <h5 align="center"><strong>Control your PC with just a controller!</strong>
 </h5>
 
