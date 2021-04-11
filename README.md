@@ -22,16 +22,16 @@ _Araam_ (Kannada/Hindi) means 'comfort'. This software helps to use the computer
 
 # :page_with_curl: Contents
 
-1. [Description](#Description)
+1. [Description](#sparkles-description)
    1. What is it?
    2. What is the use of it?
    3. Working methodology
    4. History
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [Screenshots](https://github.com/Karthikeshwar1/Araam#screenshots)
-5. [Credits](https://github.com/Karthikeshwar1/Araam#credits)
-6. [License](https://github.com/Karthikeshwar1/Araam#license)
+2. [Installation](#%EF%B8%8F-installation)
+3. [Usage](#-usage)
+4. [Screenshots](#%EF%B8%8F-screenshots)
+5. [Credits](#-credits)
+6. [License](#%EF%B8%8F-license)
 
 <br>
 
@@ -78,7 +78,11 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 # 🛠️ Installation
 
-## 💻 Usage
+
+
+<br>
+
+# 💻 Usage
 
 - Press start and back simultaneously to switch between keyboard and mouse modes
 - Hold down start and back buttons for a short period of time to exit the software
