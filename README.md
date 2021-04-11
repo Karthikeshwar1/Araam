@@ -115,12 +115,15 @@ Program is written in Python with the help of the following amazing tools:
 - [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
 - [XInput-Python](https://pypi.org/project/XInput-Python/)
 
-<p>Keyboard photo by <a href='https://www.freepik.com/photos/background'>mrsiraphol - www.freepik.com</a></p>
+
 
 <div>App icon by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+<p>Keyboard photo by <a href='https://www.freepik.com/photos/background'>mrsiraphol - www.freepik.com</a></p>
+
 Xbox controller icons by Nicolae (Xelu) Berbece from [OpenGameArt.org](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack)
 
+Xbox controller image by [Tam'z Peeranat](https://www.pexels.com/@tam-z-peeranat-110741) from www.pexels.com
 <br>
 
 # ⚖️ License
