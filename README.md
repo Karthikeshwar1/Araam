@@ -35,7 +35,7 @@ _Araam_ (Kannada/Hindi) means 'comfort'. This software helps to use the computer
 
 <br>
 
-## :sparkles: Description
+# :sparkles: Description
 
 ## What is it?
 
@@ -76,7 +76,9 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 <br>
 
-## :letter: Usage
+# 🛠️ Installation
+
+## 💻 Usage
 
 - Press start and back simultaneously to switch between keyboard and mouse modes
 - Hold down start and back buttons for a short period of time to exit the software
@@ -91,7 +93,7 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 <br>
 
-## :seedling: Screenshots
+# 🎞️ Screenshots
 
 <h1 align="center"><img src="./assets/araam-screenshot-1.png"></h1>
 
@@ -99,7 +101,7 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 <br>
 
-# :hammer: Credits
+# 🧾 Credits
 
 Program is written in Python with the help of the following amazing tools:
 
@@ -115,7 +117,7 @@ Xbox controller icons by Nicolae (Xelu) Berbece from [OpenGameArt.org](https://o
 
 <br>
 
-# :page_facing_up: License
+# ⚖️ License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
