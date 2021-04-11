@@ -23,10 +23,10 @@ _Araam_ (Kannada/Hindi) means 'comfort'. This software helps to use the computer
 # :page_with_curl: Contents
 
 1. [Description](#sparkles-description)
-   1. What is it?
-   2. What is the use of it?
-   3. Working methodology
-   4. History
+   1. [What is it?](#what-is-it)
+   2. [What is the use of it?](#what-is-the-use-of-it)
+   3. [Working methodology](#working-methodology)
+   4. [History](#history)
 2. [Installation](#%EF%B8%8F-installation)
 3. [Usage](#-usage)
 4. [Screenshots](#%EF%B8%8F-screenshots)
@@ -78,7 +78,9 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 # 🛠️ Installation
 
+Download the project, open a terminal in the project directory and run the command:
 
+`pip install requiremnts.txt`
 
 <br>
 
