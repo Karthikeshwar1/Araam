@@ -35,7 +35,7 @@ _Araam_ (Kannada/Hindi) means 'comfort'. This software helps to use the computer
 
 <br>
 
-# :sparkles: Description
+## :sparkles: Description
 
 ## What is it?
 
