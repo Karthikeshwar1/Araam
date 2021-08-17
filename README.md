@@ -78,9 +78,8 @@ The keyboard layout is divided into 7 sections, each of them comprising of 4 key
 
 # 🛠️ Installation
 
-Download the project, open a terminal in the project directory and run the command:
+*Note :* This project is yet to be made open-source.
 
-`pip install requiremnts.txt`
 
 <br>
 
